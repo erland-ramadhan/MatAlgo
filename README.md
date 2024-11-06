@@ -21,7 +21,7 @@ The tests was run on Intel(R) 8th gen 1.7 GHz quad-core processor with 16 GB of 
 | - | Algorithms | LU Decomposition | Cholesky Decomposition | QR Decomposition | SVD |
 | :---: | ---: | ---: | ---: | ---: | ---: |
 | Matrix Size | - | - | - | - |
-| 500 × 500 | 250 ms | 150 ms | 350 ms | 750 ms |
-| 1000 × 1000 | 2.5 s | 1.75 s | 4 s | 7 s |
-| 2000 × 2000 | 18 s | 12.5 s | 25 s | 1.25 minutes |
-| 5000 × 5000 | 2.5 minutes | 2 minutes | 4 minutes | 7.5 minutes |
+| 500 × 500 | - | 250 ms | 150 ms | 350 ms | 750 ms |
+| 1000 × 1000 | - | 2.5 s | 1.75 s | 4 s | 7 s |
+| 2000 × 2000 | - | 18 s | 12.5 s | 25 s | 1.25 minutes |
+| 5000 × 5000 | - | 2.5 minutes | 2 minutes | 4 minutes | 7.5 minutes |
